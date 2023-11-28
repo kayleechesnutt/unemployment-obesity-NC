@@ -9,5 +9,10 @@ This repository was created for Professor Gotzler's English 105 class in the Fal
 ### What is the purpose of this repository?
 - This repository brings awareness to the high percentages of unemployment and adult obesity in North Carolina in 2014 and 2015.
 - Social workers and policy makers could find this information useful as they address social difficulties.
+### Repository Data
+- The data gives dates of when the data was recorded.
+- The data provideds statistics regarding the amount of Adult Obesity prevelant in society.
+- The data provides statistics that show the amount of Unemployment prevelant in society.
+- This allows for the possibilty of analyzing correlation. 
 ### What's Next?
 After you have read this ReadMe page, you can go to the [Data](https://github.com/kayleechesnutt/unemployment-obesity-NC/tree/main/data) folder. This folder will give you access to the raw data set and the subset data. After you download the raw data set, feel free to go to Python, and reproduce the dataframes. You can follow my step-by-step instructions to create a subset of the raw data set. The instructions are in the  [Python notebook](https://github.com/kayleechesnutt/unemployment-obesity-NC/blob/main/Python_Chesnutt3_1.ipynb).  
