@@ -1,4 +1,4 @@
-# Unemployment and Adult Obesity in NC
+# Unemployment and Adult Obesity in North Carolina
 This repository was created for Professor Gotzler's English 105 class in the Fall 2023 semester at UNC Chapel Hill.
 ### Contents
 - This repository contains two `csv` files, found in the Data folder.
