@@ -7,10 +7,11 @@ This repository was created for Professor Gotzler's English 105 class in the Fal
 - The repository also includes the [Python notebook](https://github.com/kayleechesnutt/unemployment-obesity-NC/blob/main/Python_Chesnutt3_1.ipynb) that documents the process for crafting the subset of data from the original data.
 --- 
 ### Acquiring the Data
-The raw data set was acquired by Prof. Gotzler in the course, English 105.
+The raw data set was acquired by Prof. Gotzler in the course, English 105. The data came from Davis Library Research Hub.
 ### What is the purpose of this repository?
 - This repository brings awareness to the high percentages of unemployment and adult obesity in North Carolina in 2014 and 2015.
 - Social workers and policy makers could find this information useful as they address social difficulties.
+As we enter a society that is changing everyday, the levels of unemployment and adult obesity continue to rise. This has become a greater concern amongst social workers and policy makers over the years. While we can not conclude that correlation between adult obesity and unemployment means causation between the two, we can greater analyze the relationship. By doing this, there is a possibility of finding a leading cause and taking actions to further prevent it. 
 ### Repository Data
 - The data gives dates of when the data was recorded.
 - The data provideds statistics regarding the amount of Adult Obesity prevelant in society.
